@@ -1,0 +1,2 @@
+1st i am installing micromlgen scikit-learn numpy libraries(here micromlgen use case is for converting the python code to c code for the aurdino connections )
+2nd i am trying to generate a dataset since i dont have actual data from an ecu so 
