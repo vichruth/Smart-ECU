@@ -1,2 +1,4 @@
 1st i am installing micromlgen scikit-learn numpy libraries(here micromlgen use case is for converting the python code to c code for the aurdino connections )
-2nd i am trying to generate a dataset since i dont have actual data from an ecu so 
+2nd i am trying to generate a dataset since i dont have actual data from an ecu so using randomiser and adding some noise we are able to arrive at a small generated dataset 
+3rd i am using random classifier model for predicting and creating a small model for to calculate the variance of the rpms and the prediction for whether the rpm is normal or some anomaly is there 
+4th after running the model it saves the model in model.h which is in c++ which will be helpfull for us to code in relation with aurdino ide 
